@@ -1,5 +1,5 @@
-# StackAdapter-SoftwareEngineering
+# StackAdapter
 
-## Computer Science: Software Engineering at University of Padua 2021/2022
+## Exam of Software Engineering, Computer Engineering course at University of Padua
 
 Test Driven Development Java class 'StackAdapter' with Junit and Javadoc
